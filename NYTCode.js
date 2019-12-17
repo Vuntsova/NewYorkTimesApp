@@ -2,11 +2,9 @@
 // ==========================================================
 
 // This variable will be pre-programmed with our authentication key (the one we received when we registered)
-<<<<<<< HEAD
+
 var authKey = 'fJNmVkCkUyx6g6KFvhBDgehDfjkzex2Y';
-=======
-var authKey = "fJNmVkCkUyx6g6KFvhBDgehDfjkzex2Y";
->>>>>>> 32621dd06bc5a61cf259f49d4824c758de8f9d0c
+
 
 // These variables will hold the results we get from the user's inputs via HTML
 var queryTerm 	= "";
